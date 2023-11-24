@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Latex
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.pdfsync
+*.synctex
+*.synctex.gz(busy)
+*.pdf
+
+# Misc
+core
+*.*~
+
+# OS
+.DS_Store
+*.swp
+*.bak
+
+# Workspace
+workspace
+*.tar.gz
+*.tgz
+
+# build dir
+build
+
+# Gmsh
+*.pos
+*.msh
+
+# IDE
+.project
+.pydevproject
+.settings
+.vscode
